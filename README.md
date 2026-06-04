@@ -73,8 +73,6 @@ HealthStack follows the **Provider** architectural pattern, separating the appli
 
 ## 📱 Screenshots
 
-*(Add screenshots of your UI here! Good examples include the Dashboard, AI Analysis Popup, Medicine Tracker, and Health Stats)*
-
 |  |  |  |
 | --- | --- | --- |
 | **Smart Dashboard** | **Upload & Scan** | **Bangla AI Overview** |
