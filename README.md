@@ -80,6 +80,9 @@ HealthStack follows the **Provider** architectural pattern, separating the appli
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+## 📝 License
 
+Copyright (c) 2026 Xurx94. All Rights Reserved.
+
+This project is for educational and portfolio purposes. The source code is available for viewing, but it may not be copied, modified, distributed, or used for commercial purposes without explicit permission.
 ```
