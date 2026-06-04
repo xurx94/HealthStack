@@ -1,4 +1,3 @@
-```markdown
 # 🏥 HealthStack
 
 HealthStack is a secure, cross-platform mobile health management application built with Flutter. It addresses the fragmentation of personal health data by consolidating medicine scheduling, symptom logging, and medical report storage into a single, offline-first environment. 
@@ -39,28 +38,26 @@ Follow these steps to run HealthStack locally on your machine.
    git clone [https://github.com/enayet/HealthStack.git](https://github.com/enayet/HealthStack.git)
    cd HealthStack
 
-```
+   ```
 
 2. **Install dependencies**
-```bash
-flutter pub get
-
-```
+   ```bash
+   flutter pub get
+   
+   ```
 
 3. **Set up the Environment Variables (CRITICAL)**
-For security reasons, the Gemini API key is excluded from version control. You must create a secret file to enable the AI scanning features.
-* In the root folder of the project (same level as `pubspec.yaml`), create a new file named exactly: `.env`
-* Open the `.env` file and add your Gemini API key:
-```env
-GEMINI_API_KEY=your_actual_api_key_here
-
-```
+   For security reasons, the Gemini API key is excluded from version control. You must create a secret file to enable the AI scanning features.
+   * In the root folder of the project (same level as `pubspec.yaml`), create a new file named exactly: `.env`
+   * Open the `.env` file and add your Gemini API key:
+   ```env
+   GEMINI_API_KEY=your_actual_api_key_here
+   ```
 
 4. **Run the App**
-```bash
-flutter run
-
-```
+   ```bash
+   flutter run
+   ```
 
 ## Just check the release if you don't want these installation hustles
 
@@ -76,8 +73,6 @@ HealthStack follows the **Provider** architectural pattern, separating the appli
 
 ## 📱 Screenshots
 
-*(Add screenshots of your UI here! Good examples include the Dashboard, AI Analysis Popup, Medicine Tracker, and Health Stats)*
-
 |  |  |  |
 | --- | --- | --- |
 | **Smart Dashboard** | **Upload & Scan** | **Bangla AI Overview** |
@@ -85,8 +80,9 @@ HealthStack follows the **Provider** architectural pattern, separating the appli
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+## 📝 License
 
-```
+Copyright (c) 2026 Xurx94. All Rights Reserved.
 
+This project is for educational and portfolio purposes. The source code is available for viewing, but it may not be copied, modified, distributed, or used for commercial purposes without explicit permission.
 ```
