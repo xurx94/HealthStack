@@ -38,28 +38,26 @@ Follow these steps to run HealthStack locally on your machine.
    git clone [https://github.com/enayet/HealthStack.git](https://github.com/enayet/HealthStack.git)
    cd HealthStack
 
-```
+   ```
 
 2. **Install dependencies**
-```bash
-flutter pub get
-
-```
+   ```bash
+   flutter pub get
+   
+   ```
 
 3. **Set up the Environment Variables (CRITICAL)**
-For security reasons, the Gemini API key is excluded from version control. You must create a secret file to enable the AI scanning features.
-* In the root folder of the project (same level as `pubspec.yaml`), create a new file named exactly: `.env`
-* Open the `.env` file and add your Gemini API key:
-```env
-GEMINI_API_KEY=your_actual_api_key_here
-
-```
+   For security reasons, the Gemini API key is excluded from version control. You must create a secret file to enable the AI scanning features.
+   * In the root folder of the project (same level as `pubspec.yaml`), create a new file named exactly: `.env`
+   * Open the `.env` file and add your Gemini API key:
+   ```env
+   GEMINI_API_KEY=your_actual_api_key_here
+   ```
 
 4. **Run the App**
-```bash
-flutter run
-
-```
+   ```bash
+   flutter run
+   ```
 
 ## Just check the release if you don't want these installation hustles
 
