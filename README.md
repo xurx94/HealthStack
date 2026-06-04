@@ -77,9 +77,6 @@ HealthStack follows the **Provider** architectural pattern, separating the appli
 | --- | --- | --- |
 | **Smart Dashboard** | **Upload & Scan** | **Bangla AI Overview** |
 
-
-## 📝 License
-
 ## 📝 License
 
 Copyright (c) 2026 Xurx94. All Rights Reserved.
