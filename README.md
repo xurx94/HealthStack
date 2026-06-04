@@ -47,7 +47,6 @@ flutter pub get
 
 ```
 
-
 3. **Set up the Environment Variables (CRITICAL)**
 For security reasons, the Gemini API key is excluded from version control. You must create a secret file to enable the AI scanning features.
 * In the root folder of the project (same level as `pubspec.yaml`), create a new file named exactly: `.env`
@@ -63,6 +62,7 @@ flutter run
 
 ```
 
+## Just check the release if you don't want these installation hustles
 
 ## 🔐 Architecture Notes
 
