@@ -1,4 +1,3 @@
-```markdown
 # 🏥 HealthStack
 
 HealthStack is a secure, cross-platform mobile health management application built with Flutter. It addresses the fragmentation of personal health data by consolidating medicine scheduling, symptom logging, and medical report storage into a single, offline-first environment. 
@@ -86,7 +85,5 @@ HealthStack follows the **Provider** architectural pattern, separating the appli
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-```
 
 ```
